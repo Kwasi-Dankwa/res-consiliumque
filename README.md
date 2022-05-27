@@ -29,4 +29,7 @@ Links
 Screenshot
 <img width="932" alt="image" src="https://user-images.githubusercontent.com/104780360/170798279-da85dab2-e5e4-48ec-a3f2-ac7452ff6004.png">
 
+Link to Deployed Webpage
+https://kwasi-dankwa.github.io/res-consiliumque/
+
 
